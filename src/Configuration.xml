@@ -129,6 +129,7 @@
 			<CommonPicture>РасчетЗарплаты</CommonPicture>
 			<CommonPicture>Предприятие</CommonPicture>
 			<Catalog>Клиенты</Catalog>
+			<Catalog>Сотрудники</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
