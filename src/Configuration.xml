@@ -130,6 +130,7 @@
 			<CommonPicture>Предприятие</CommonPicture>
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
+			<Catalog>Номенклатура</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
