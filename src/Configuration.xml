@@ -131,6 +131,7 @@
 			<Catalog>Клиенты</Catalog>
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
+			<Catalog>Склады</Catalog>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
