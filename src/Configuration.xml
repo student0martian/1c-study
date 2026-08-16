@@ -132,6 +132,7 @@
 			<Catalog>Сотрудники</Catalog>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Склады</Catalog>
+			<Document>ПриходнаяНакладная</Document>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
