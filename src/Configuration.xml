@@ -137,6 +137,7 @@
 			<Catalog>Склады</Catalog>
 			<Document>ПриходнаяНакладная</Document>
 			<Document>ОказаниеУслуги</Document>
+			<Enum>ВидыНоменклатуры</Enum>
 			<Report>Материалы</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
