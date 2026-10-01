@@ -139,6 +139,7 @@
 			<Document>ОказаниеУслуги</Document>
 			<Enum>ВидыНоменклатуры</Enum>
 			<Report>Материалы</Report>
+			<Report>РеестрДокументовОказаниеУслуг</Report>
 			<InformationRegister>Цены</InformationRegister>
 			<AccumulationRegister>ОстаткиМатериалов</AccumulationRegister>
 			<AccumulationRegister>СтоимостьМатериалов</AccumulationRegister>
